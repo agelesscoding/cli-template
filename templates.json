@@ -2,6 +2,11 @@
   {
     "name": "Vue2 标准模板",
     "npmName": "@agelesscoding/vue2-standard-template",
-    "version": "1.0.2"
+    "version": "1.0.3"
+  },
+  {
+    "name": "Vue2 管理后台模板",
+    "npmName": "@agelesscoding/vue-element-admin",
+    "version": "1.0.3"
   }
 ]
