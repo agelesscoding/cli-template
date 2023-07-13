@@ -3,8 +3,8 @@
   "version": "1.0.1",
   "description": "Ageless Coding Templates - Vue2 standard template",
   "author": "smpower <rf.wangchn@foxmail.com>",
-  "homepage": "",
-  "license": "ISC",
+  "homepage": "https://github.com/agelesscoding/cli-template/tree/main/vue-templates/vue2-standard-template",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
