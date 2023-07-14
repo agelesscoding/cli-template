@@ -10,6 +10,16 @@
     "ignore": ["**/public/**"]
   },
   {
+    "name": "Vue2 自定义模板",
+    "npmName": "@agelesscoding/vue2-custom-template-demo",
+    "version": "1.0.0",
+    "type": "custom",
+    "installCommand": "npm install",
+    "startCommand": "npm run serve",
+    "tag": ["project"],
+    "ignore": ["**/public/**"]
+  },
+  {
     "name": "Vue3 组件库示例",
     "npmName": "@agelesscoding/vue3-components-example",
     "version": "1.0.13",

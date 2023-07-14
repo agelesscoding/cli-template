@@ -1,0 +1,25 @@
+{
+  "name": "@agelesscoding/vue2-custom-template-demo",
+  "version": "0.0.0",
+  "description": "Ageless Coding Templates - Vue2 custom template (demo)",
+  "author": "smpower <rf.wangchn@foxmail.com>",
+  "homepage": "https://github.com/agelesscoding/cli-template#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "template": "template"
+  },
+  "files": [
+    "template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agelesscoding/cli-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agelesscoding/cli-template/issues"
+  }
+}
