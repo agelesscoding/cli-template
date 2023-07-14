@@ -7,5 +7,12 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agelesscoding/cli-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agelesscoding/cli-template/issues"
   }
 }

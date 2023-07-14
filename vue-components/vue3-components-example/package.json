@@ -5,12 +5,6 @@
   "author": "smpower <rf.wangchn@foxmail.com>",
   "homepage": "https://github.com/agelesscoding/cli-template#readme",
   "license": "MIT",
-  "directories": {
-    "component": "component"
-  },
-  "files": [
-    "component"
-  ],
   "publishConfig": {
     "access": "public"
   },
