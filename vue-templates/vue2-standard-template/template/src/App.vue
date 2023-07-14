@@ -1,5 +1,5 @@
 <template>
-  <div id="app">Vue2 Standard Template - v1.0.3</div>
+  <div id="app">Vue2 Standard Template</div>
 </template>
 
 <script>
