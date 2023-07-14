@@ -6,7 +6,7 @@
     "type": "normal",
     "installCommand": "npm install",
     "startCommand": "npm run serve",
-    "data": ["project"],
+    "tag": ["project"],
     "ignore": ["**/public/**"]
   },
   {
@@ -16,7 +16,7 @@
     "type": "normal",
     "installCommand": "npm install",
     "startCommand": "npm run serve",
-    "data": ["component"],
+    "tag": ["component"],
     "ignore": ["**/public/**"]
   }
 ]
