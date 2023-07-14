@@ -1,0 +1,24 @@
+{
+  "name": "@agelesscoding/vue2-components-example",
+  "version": "0.1.0",
+  "description": "Ageless Coding Components - Vue2 Example Component",
+  "author": "smpower <rf.wangchn@foxmail.com>",
+  "homepage": "https://github.com/agelesscoding/cli-template#readme",
+  "license": "MIT",
+  "directories": {
+    "component": "component"
+  },
+  "files": [
+    "component"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agelesscoding/cli-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agelesscoding/cli-template/issues"
+  }
+}
