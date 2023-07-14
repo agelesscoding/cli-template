@@ -17,6 +17,6 @@
     "installCommand": "npm install",
     "startCommand": "npm run serve",
     "tag": ["component"],
-    "ignore": ["**/public/**"]
+    "ignore": ["**/public/**", "result.png"]
   }
 ]
