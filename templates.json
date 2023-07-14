@@ -12,7 +12,7 @@
   {
     "name": "Vue3 组件库示例",
     "npmName": "@agelesscoding/vue3-components-example",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "type": "normal",
     "installCommand": "npm install",
     "startCommand": "npm run serve",

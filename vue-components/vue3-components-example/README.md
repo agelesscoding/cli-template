@@ -1,4 +1,4 @@
-# `@agelesscoding/vue2-components-example`
+# `@agelesscoding/vue3-components-example`
 
 ## Attention
 
