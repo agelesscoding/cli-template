@@ -2,7 +2,7 @@
   {
     "name": "Vue2 标准模板",
     "npmName": "@agelesscoding/vue2-standard-template",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "type": "normal",
     "installCommand": "npm install",
     "startCommand": "npm run serve"
