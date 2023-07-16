@@ -14,8 +14,6 @@
     "npmName": "@agelesscoding/vue3-standard-template",
     "version": "1.0.0",
     "type": "normal",
-    "installCommand": "npm install",
-    "startCommand": "npm run dev",
     "tag": ["project"]
   },
   {
