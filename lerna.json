@@ -1,8 +1,5 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
-  "version": "1.0.15",
-  "packages": [
-    "vue-templates/*",
-    "vue-components/*"
-  ]
+  "version": "independent",
+  "packages": ["vue-templates/*", "vue-components/*"]
 }

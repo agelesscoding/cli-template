@@ -1,0 +1,24 @@
+{
+  "name": "@agelesscoding/vue3-standard-template",
+  "version": "0.0.0",
+  "description": "Ageless Coding Templates - Vue3 standard template",
+  "author": "smpower <rf.wangchn@foxmail.com>",
+  "homepage": "https://github.com/agelesscoding/cli-template#readme",
+  "license": "MIT",
+  "directories": {
+    "template": "template"
+  },
+  "files": [
+    "template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agelesscoding/cli-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agelesscoding/cli-template/issues"
+  }
+}

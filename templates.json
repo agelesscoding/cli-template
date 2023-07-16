@@ -1,6 +1,6 @@
 [
   {
-    "name": "Vue2 标准模板",
+    "name": "Vue2 标准项目模板",
     "npmName": "@agelesscoding/vue2-standard-template",
     "version": "1.0.12",
     "type": "normal",
@@ -10,7 +10,16 @@
     "ignore": ["**/public/**"]
   },
   {
-    "name": "Vue2 自定义模板",
+    "name": "Vue3 标准项目模板",
+    "npmName": "@agelesscoding/vue3-standard-template",
+    "version": "1.0.0",
+    "type": "normal",
+    "installCommand": "npm install",
+    "startCommand": "npm run serve",
+    "tag": ["project"]
+  },
+  {
+    "name": "Vue2 自定义项目模板",
     "npmName": "@agelesscoding/vue2-custom-template-demo",
     "version": "1.0.15",
     "type": "custom",
