@@ -1,6 +1,9 @@
 [
   {
-    "name": "Vue2 标准项目模板",
+    "name": {
+      "en": "Vue2 Standard Template",
+      "zh_CN": "Vue2 标准项目模板"
+    },
     "npmName": "@agelesscoding/vue2-standard-template",
     "version": "1.0.12",
     "type": "normal",
@@ -10,14 +13,20 @@
     "ignore": ["**/public/**"]
   },
   {
-    "name": "Vue3 标准项目模板",
+    "name": {
+      "en": "Vue3 Standard Template",
+      "zh_CN": "Vue3 标准项目模板"
+    },
     "npmName": "@agelesscoding/vue3-standard-template",
     "version": "1.0.0",
     "type": "normal",
     "tag": ["project"]
   },
   {
-    "name": "Vue2 自定义项目模板",
+    "name": {
+      "en": "Vue2 Custom Template",
+      "zh_CN": "Vue2 自定义项目模板"
+    },
     "npmName": "@agelesscoding/vue2-custom-template-demo",
     "version": "1.0.15",
     "type": "custom",
@@ -27,7 +36,10 @@
     "ignore": ["**/public/**"]
   },
   {
-    "name": "Vue3 组件库示例",
+    "name": {
+      "en": "Vue 3 Components Example",
+      "zh_CN": "Vue 3 组件库示例"
+    },
     "npmName": "@agelesscoding/vue3-components-example",
     "version": "1.0.13",
     "type": "normal",
