@@ -1,0 +1,24 @@
+{
+  "name": "@agelesscoding/nextjs-standard-template",
+  "version": "1.0.0",
+  "description": "Next.js Standard Template",
+  "author": "smpower <rf.wangchn@foxmail.com>",
+  "homepage": "https://github.com/agelesscoding/cli-template#readme",
+  "license": "MIT",
+  "directories": {
+    "template": "template"
+  },
+  "files": [
+    "template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agelesscoding/cli-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agelesscoding/cli-template/issues"
+  }
+}
