@@ -4,6 +4,6 @@ interface DashboardLayoutProps {
 
 export default function DashboardLayout(props: DashboardLayoutProps) {
   return (
-    <div className="dashboard-home-layout">{props.children}</div>
+    <div className="dashboard-layout">{props.children}</div>
   );
 }
