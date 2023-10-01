@@ -1,6 +1,18 @@
 [
   {
     "name": {
+      "en": "20231002",
+      "zh_CN": "20231002"
+    },
+    "npmName": "@agc-wechat/example-20231002",
+    "version": "1.0.1",
+    "type": "wechat",
+    "tag": ["wechat"],
+    "ignore": ["**/public/**"]
+  },
+
+  {
+    "name": {
       "en": "Vue2 Standard Template",
       "zh_CN": "Vue2 标准项目模板"
     },
@@ -22,6 +34,7 @@
     "type": "normal",
     "tag": ["project"]
   },
+
   {
     "name": {
       "en": "Vue2 Custom Template",
@@ -35,6 +48,7 @@
     "tag": ["project"],
     "ignore": ["**/public/**"]
   },
+
   {
     "name": {
       "en": "Vue 3 Components Example",
@@ -51,13 +65,15 @@
 
   {
     "name": {
-      "en": "20231002",
-      "zh_CN": "20231002"
+      "en": "Next.js Standard Template(App Router)",
+      "zh_CN": "Next.js 标准项目模板(App Router)"
     },
-    "npmName": "@agc-wechat/example-20231002",
-    "version": "1.0.1",
-    "type": "wechat",
-    "tag": ["wechat"],
+    "npmName": "@agelesscoding/nextjs-standard-template-app-router",
+    "version": "1.0.13",
+    "type": "normal",
+    "installCommand": "npm install",
+    "startCommand": "npm run serve",
+    "tag": ["project"],
     "ignore": ["**/public/**"]
   }
 ]
