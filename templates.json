@@ -47,5 +47,17 @@
     "startCommand": "npm run serve",
     "tag": ["component"],
     "ignore": ["**/public/**", "result.png"]
+  },
+
+  {
+    "name": {
+      "en": "20231002",
+      "zh_CN": "20231002"
+    },
+    "npmName": "@agc-wechat/example-20231002",
+    "version": "1.0.0",
+    "type": "wechat",
+    "tag": ["wechat"],
+    "ignore": ["**/public/**"]
   }
 ]
