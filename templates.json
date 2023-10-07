@@ -1,6 +1,18 @@
 [
   {
     "name": {
+      "en": "20231009",
+      "zh_CN": "202310049"
+    },
+    "npmName": "@agc-wechat/example-20231009",
+    "version": "1.0.0",
+    "type": "wechat",
+    "tag": ["wechat"],
+    "installCommand": "npm install",
+    "startCommand": "npm run dev"
+  },
+  {
+    "name": {
       "en": "20231004",
       "zh_CN": "20231004"
     },

@@ -1,6 +1,6 @@
 {
-  "name": "<%= pkgName %>",
-  "version": "<%= pkgVersion %>",
+ "name": "@agc-wechat/example-20231009",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
