@@ -1,0 +1,24 @@
+{
+  "name": "@agc-wechat/example-20231009",
+  "version": "1.0.1",
+  "description": "2023.10.09 公众号文章配套源码",
+  "author": "smpower <rf.wangchn@foxmail.com>",
+  "homepage": "https://github.com/agelesscoding/cli-template#readme",
+  "license": "MIT",
+  "directories": {
+    "template": "template"
+  },
+  "files": [
+    "template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agelesscoding/cli-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agelesscoding/cli-template/issues"
+  }
+}

@@ -5,7 +5,7 @@
       "zh_CN": "202310049"
     },
     "npmName": "@agc-wechat/example-20231009",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "wechat",
     "tag": ["wechat"],
     "installCommand": "npm install",
