@@ -88,11 +88,11 @@
 
   {
     "name": {
-      "en": "Next.js Standard Template(App Router)",
-      "zh_CN": "Next.js 标准项目模板(App Router)"
+      "en": "Next.js Standard Template",
+      "zh_CN": "Next.js 标准项目模板"
     },
     "npmName": "@agelesscoding/nextjs-standard-template-app-router",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "type": "normal",
     "installCommand": "npm install",
     "startCommand": "npm run dev",
