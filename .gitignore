@@ -2,6 +2,7 @@ node_modules/
 .idea
 .DS_Store
 .next
+.nx
 
 yarn.lock
 package-lock.json
