@@ -36,6 +36,20 @@
 
   {
     "name": {
+      "en": "Next.js Standard Template",
+      "zh_CN": "Next.js 标准项目模板"
+    },
+    "npmName": "@agelesscoding/nextjs-standard-template",
+    "version": "1.0.15",
+    "type": "normal",
+    "installCommand": "npm install",
+    "startCommand": "npm run dev",
+    "tag": ["project"],
+    "ignore": ["**/public/**"]
+  },
+
+  {
+    "name": {
       "en": "Vue2 Standard Template",
       "zh_CN": "Vue2 标准项目模板"
     },
@@ -84,19 +98,5 @@
     "startCommand": "npm run serve",
     "tag": ["component"],
     "ignore": ["**/public/**", "result.png"]
-  },
-
-  {
-    "name": {
-      "en": "Next.js Standard Template",
-      "zh_CN": "Next.js 标准项目模板"
-    },
-    "npmName": "@agelesscoding/nextjs-standard-template-app-router",
-    "version": "1.0.14",
-    "type": "normal",
-    "installCommand": "npm install",
-    "startCommand": "npm run dev",
-    "tag": ["project"],
-    "ignore": ["**/public/**"]
   }
 ]
