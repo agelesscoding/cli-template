@@ -40,7 +40,7 @@
       "zh_CN": "Next.js 标准项目模板"
     },
     "npmName": "@agelesscoding/nextjs-standard-template",
-    "version": "1.0.15",
+    "version": "1.0.16",
     "type": "normal",
     "installCommand": "npm install",
     "startCommand": "npm run dev",
