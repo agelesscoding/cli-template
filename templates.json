@@ -19,9 +19,7 @@
     "npmName": "@agc-wechat/example-20231009",
     "version": "1.0.1",
     "type": "wechat",
-    "tag": ["wechat"],
-    "installCommand": "npm install",
-    "startCommand": "npm run dev"
+    "tag": ["wechat"]
   },
   {
     "name": {
