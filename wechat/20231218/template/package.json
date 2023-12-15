@@ -1,0 +1,8 @@
+{
+  "name": "<%= pkgName %>",
+  "version": "<%= pkgVersion %>",
+  "private": true,
+  "description": "2023.12.18 公众号文章配套源码",
+  "author": "smpower <rf.wangchn@foxmail.com>",
+  "license": "MIT"
+}
